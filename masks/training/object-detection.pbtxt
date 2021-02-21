@@ -1,0 +1,16 @@
+item {
+	id:1
+	name:'Mask'
+}
+item {
+	id:2
+	name:'Non_Mask'
+}
+item {
+	id:3
+	name:'Social_Distance'
+}
+item {
+	id:4
+	name:'No_Social_Distance'
+}
