@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelimg-annotations</folder>
+	<filename>Social-Distancing-in-India-10.jpg</filename>
+	<path>C:\Users\sushanth\Downloads\labelimg-annotations\Social-Distancing-in-India-10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>875</width>
+		<height>656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Social_Distance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>117</ymin>
+			<xmax>874</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>
