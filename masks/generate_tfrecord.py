@@ -32,10 +32,16 @@ FLAGS = flags.FLAGS
 
 # replace row_label with the name you annotated your images as
 def class_text_to_int(row_label):
-    if row_label == 'cloth_mask':
+    if row_label == 'Mask':
         return 1
+    elif row_label == 'Non_Mask':
+        return 2
+    elif row_label == 'Social_Distance':
+        return 3
+    elif row_label == 'No_Social_Distance':
+        return 4
     else:
-        None
+        return 0
 
 
 def split(df, group):
@@ -86,8 +92,11 @@ def create_tf_example(group, path):
 
 
 def main(_):
+    output_path = '/content/SSD_OBJECT-DETECTION/masks/data/'
+    image_dir= '/content/SSD_OBJECT-DETECTION/masks/images/'
+    csv_input='/content/SSD_OBJECT-DETECTION/masks/data/'
     writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
-    path = os.path.join(FLAGS.image_dir)
+    path = os.path.join(os.getcwd(), 'images/train/')
     examples = pd.read_csv(FLAGS.csv_input)
     grouped = split(examples, 'filename')
     for group in grouped:
@@ -100,4 +109,5 @@ def main(_):
 
 
 if __name__ == '__main__':
+   
     tf.app.run()
