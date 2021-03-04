@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Social Dataset All - Copy</folder>
+	<filename>Makineni_Stadium_2_650(3).jpg</filename>
+	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\Makineni_Stadium_2_650(3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Social Distance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>638</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
