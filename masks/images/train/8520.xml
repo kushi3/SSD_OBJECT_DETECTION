@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Social Dataset All - Copy</folder>
+	<filename>8520.jpg</filename>
+	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\8520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>260</ymin>
+			<xmax>372</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>258</ymin>
+			<xmax>466</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>234</ymin>
+			<xmax>607</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
