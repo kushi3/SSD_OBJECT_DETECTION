@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Social Dataset All - Copy</folder>
+	<folder>labelimg-annotations</folder>
 	<filename>Traffic.jpg</filename>
-	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\Traffic.jpg</path>
+	<path>C:\Users\sushanth\Downloads\labelimg-annotations\Traffic.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Social Distance</name>
+		<name>Social_Distance</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>285</xmin>
-			<ymin>34</ymin>
-			<xmax>873</xmax>
-			<ymax>432</ymax>
+			<xmin>290</xmin>
+			<ymin>28</ymin>
+			<xmax>900</xmax>
+			<ymax>446</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -30,9 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>340</xmin>
-			<ymin>88</ymin>
-			<xmax>376</xmax>
-			<ymax>118</ymax>
+			<ymin>85</ymin>
+			<xmax>382</xmax>
+			<ymax>121</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>716</xmin>
-			<ymin>103</ymin>
-			<xmax>746</xmax>
-			<ymax>138</ymax>
+			<xmin>718</xmin>
+			<ymin>97</ymin>
+			<xmax>750</xmax>
+			<ymax>140</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Non Mask</name>
+		<name>Non_Mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>623</xmin>
-			<ymin>73</ymin>
-			<xmax>658</xmax>
-			<ymax>97</ymax>
+			<xmin>622</xmin>
+			<ymin>74</ymin>
+			<xmax>652</xmax>
+			<ymax>98</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,26 +1,86 @@
 <annotation>
 	<folder>labelimg-annotations</folder>
-	<filename>135100-social-afp.jpg</filename>
-	<path>C:\Users\sushanth\Downloads\labelimg-annotations\135100-social-afp.jpg</path>
+	<filename>Ration-Shop-1%20(2).jpg</filename>
+	<path>C:\Users\sushanth\Downloads\labelimg-annotations\Ration-Shop-1%20(2).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1500</width>
-		<height>950</height>
+		<width>1200</width>
+		<height>900</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Social_Distance</name>
+		<name>No_Social_Distance</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>75</ymin>
+			<xmax>1125</xmax>
+			<ymax>847</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Non_Mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>12</ymin>
-			<xmax>1483</xmax>
-			<ymax>935</ymax>
+			<xmin>908</xmin>
+			<ymin>212</ymin>
+			<xmax>986</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Non_Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>212</ymin>
+			<xmax>851</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Non_Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>180</ymin>
+			<xmax>588</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Non_Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>89</ymin>
+			<xmax>538</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Non_Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>174</ymin>
+			<xmax>93</xmax>
+			<ymax>200</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1030</xmin>
-			<ymin>723</ymin>
-			<xmax>1059</xmax>
-			<ymax>759</ymax>
+			<xmin>600</xmin>
+			<ymin>189</ymin>
+			<xmax>649</xmax>
+			<ymax>234</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,70 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1372</xmin>
-			<ymin>797</ymin>
-			<xmax>1410</xmax>
-			<ymax>834</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1339</xmin>
-			<ymin>382</ymin>
-			<xmax>1366</xmax>
-			<ymax>408</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1068</xmin>
-			<ymin>358</ymin>
-			<xmax>1090</xmax>
-			<ymax>376</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>219</xmin>
-			<ymin>388</ymin>
-			<xmax>234</xmax>
-			<ymax>408</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>398</xmin>
-			<ymin>431</ymin>
-			<xmax>433</xmax>
-			<ymax>455</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>522</xmin>
-			<ymin>278</ymin>
-			<xmax>547</xmax>
-			<ymax>296</ymax>
+			<xmin>227</xmin>
+			<ymin>147</ymin>
+			<xmax>290</xmax>
+			<ymax>195</ymax>
 		</bndbox>
 	</object>
 </annotation>

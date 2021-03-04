@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Social Dataset All - Copy</folder>
+	<folder>labelimg-annotations</folder>
 	<filename>mask-1280x720.jpg</filename>
-	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\mask-1280x720.jpg</path>
+	<path>C:\Users\sushanth\Downloads\labelimg-annotations\mask-1280x720.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>536</xmin>
-			<ymin>348</ymin>
-			<xmax>874</xmax>
-			<ymax>621</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Social Distance</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>360</xmin>
-			<ymin>25</ymin>
-			<xmax>1036</xmax>
-			<ymax>711</ymax>
+			<xmin>583</xmin>
+			<ymin>384</ymin>
+			<xmax>848</xmax>
+			<ymax>617</ymax>
 		</bndbox>
 	</object>
 </annotation>

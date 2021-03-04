@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Social Dataset All - Copy</folder>
+	<folder>labelimg-annotations</folder>
 	<filename>health-workers-wearing-face-mask-3957987.jpg</filename>
-	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\health-workers-wearing-face-mask-3957987.jpg</path>
+	<path>C:\Users\sushanth\Downloads\labelimg-annotations\health-workers-wearing-face-mask-3957987.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1269</xmin>
+			<xmin>1250</xmin>
 			<ymin>2172</ymin>
-			<xmax>1869</xmax>
-			<ymax>2597</ymax>
+			<xmax>1875</xmax>
+			<ymax>2603</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2194</xmin>
-			<ymin>2585</ymin>
-			<xmax>2919</xmax>
-			<ymax>3122</ymax>
+			<xmin>2238</xmin>
+			<ymin>2578</ymin>
+			<xmax>2931</xmax>
+			<ymax>3110</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3263</xmin>
-			<ymin>1410</ymin>
-			<xmax>3869</xmax>
-			<ymax>1885</ymax>
+			<xmin>3288</xmin>
+			<ymin>1428</ymin>
+			<xmax>3806</xmax>
+			<ymax>1853</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>4369</xmin>
-			<ymin>1960</ymin>
-			<xmax>5050</xmax>
-			<ymax>2497</ymax>
+			<ymin>1985</ymin>
+			<xmax>5106</xmax>
+			<ymax>2466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No_Social_Distance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>1003</ymin>
+			<xmax>5838</xmax>
+			<ymax>3816</ymax>
 		</bndbox>
 	</object>
 </annotation>

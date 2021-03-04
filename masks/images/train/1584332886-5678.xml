@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Social Dataset All - Copy</folder>
+	<folder>labelimg-annotations</folder>
 	<filename>1584332886-5678.jpg</filename>
-	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\1584332886-5678.jpg</path>
+	<path>C:\Users\sushanth\Downloads\labelimg-annotations\1584332886-5678.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Non Mask</name>
+		<name>No_Social_Distance</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>13</ymin>
+			<xmax>614</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Non_Mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
+			<xmin>34</xmin>
 			<ymin>80</ymin>
-			<xmax>69</xmax>
-			<ymax>111</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Non Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>263</xmin>
-			<ymin>57</ymin>
-			<xmax>296</xmax>
-			<ymax>80</ymax>
+			<xmax>70</xmax>
+			<ymax>116</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,21 +41,21 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>198</xmin>
-			<ymin>85</ymin>
-			<xmax>229</xmax>
-			<ymax>110</ymax>
+			<xmin>199</xmin>
+			<ymin>91</ymin>
+			<xmax>227</xmax>
+			<ymax>118</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Mask</name>
+		<name>Non_Mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>355</xmin>
+			<xmin>267</xmin>
 			<ymin>59</ymin>
-			<xmax>387</xmax>
+			<xmax>292</xmax>
 			<ymax>83</ymax>
 		</bndbox>
 	</object>
@@ -65,9 +65,21 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>461</xmin>
-			<ymin>232</ymin>
-			<xmax>494</xmax>
+			<xmin>354</xmin>
+			<ymin>60</ymin>
+			<xmax>387</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>233</ymin>
+			<xmax>493</xmax>
 			<ymax>259</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Social Dataset All - Copy</folder>
+	<folder>labelimg-annotations</folder>
 	<filename>13Lynteris4-superJumbo.jpg</filename>
-	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\13Lynteris4-superJumbo.jpg</path>
+	<path>C:\Users\sushanth\Downloads\labelimg-annotations\13Lynteris4-superJumbo.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Mask</name>
+		<name>No_Social_Distance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>980</xmin>
-			<ymin>770</ymin>
-			<xmax>1189</xmax>
-			<ymax>929</ymax>
+			<xmin>10</xmin>
+			<ymin>56</ymin>
+			<xmax>2039</xmax>
+			<ymax>1490</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>451</xmin>
-			<ymin>1072</ymin>
-			<xmax>739</xmax>
-			<ymax>1277</ymax>
+			<xmin>442</xmin>
+			<ymin>1059</ymin>
+			<xmax>773</xmax>
+			<ymax>1279</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,45 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>248</xmin>
-			<ymin>502</ymin>
-			<xmax>482</xmax>
+			<xmin>967</xmin>
+			<ymin>743</ymin>
+			<xmax>1223</xmax>
+			<ymax>934</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1521</xmin>
+			<ymin>638</ymin>
+			<xmax>1707</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1701</xmin>
+			<ymin>986</ymin>
+			<xmax>1960</xmax>
+			<ymax>1188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>495</ymin>
+			<xmax>473</xmax>
 			<ymax>652</ymax>
 		</bndbox>
 	</object>
@@ -53,82 +89,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1146</xmin>
-			<ymin>265</ymin>
-			<xmax>1369</xmax>
-			<ymax>436</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1528</xmin>
-			<ymin>645</ymin>
-			<xmax>1696</xmax>
-			<ymax>800</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1712</xmin>
-			<ymin>995</ymin>
-			<xmax>1951</xmax>
-			<ymax>1181</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Mask</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>110</xmin>
-			<ymin>920</ymin>
-			<xmax>273</xmax>
+			<xmin>101</xmin>
+			<ymin>909</ymin>
+			<xmax>267</xmax>
 			<ymax>1120</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Non Mask</name>
+		<name>Mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>204</ymin>
-			<xmax>169</xmax>
-			<ymax>393</ymax>
+			<xmin>1148</xmin>
+			<ymin>265</ymin>
+			<xmax>1348</xmax>
+			<ymax>418</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Non Mask</name>
+		<name>Non_Mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>839</xmin>
-			<ymin>177</ymin>
-			<xmax>1019</xmax>
-			<ymax>322</ymax>
+			<xmin>848</xmin>
+			<ymin>184</ymin>
+			<xmax>1012</xmax>
+			<ymax>318</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>No Social Distance</name>
+		<name>Non_Mask</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
-			<ymin>65</ymin>
-			<xmax>2037</xmax>
-			<ymax>1427</ymax>
+			<xmin>19</xmin>
+			<ymin>234</ymin>
+			<xmax>157</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 </annotation>
