@@ -34,11 +34,11 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     if row_label == 'Mask':
         return 1
-    elif row_label == 'Non_Mask':
+    elif row_label == 'Non Mask':
         return 2
-    elif row_label == 'Social_Distance':
+    elif row_label == 'Social Distance':
         return 3
-    elif row_label == 'No_Social_Distance':
+    elif row_label == 'No Social Distance':
         return 4
     else:
         return 0
