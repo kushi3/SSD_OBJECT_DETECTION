@@ -4,13 +4,13 @@ item {
 }
 item {
 	id:2
-	name:'Non_Mask'
+	name:'Non Mask'
 }
 item {
 	id:3
-	name:'Social_Distance'
+	name:'Social Distance'
 }
 item {
 	id:4
-	name:'No_Social_Distance'
+	name:'No Social Distance'
 }
