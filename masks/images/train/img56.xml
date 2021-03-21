@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Social Dataset All - Copy</folder>
+	<filename>img56.jpg</filename>
+	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\img56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>152</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Non Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>72</ymin>
+			<xmax>143</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

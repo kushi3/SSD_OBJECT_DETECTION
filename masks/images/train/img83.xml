@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fwdwithoutmask</folder>
+	<filename>img83.jpg</filename>
+	<path>C:\Users\Sree Archu\Downloads\fwdwithoutmask\img83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>60</ymin>
+			<xmax>232</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>social distancing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>9</ymin>
+			<xmax>256</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
