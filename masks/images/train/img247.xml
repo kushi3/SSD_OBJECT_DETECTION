@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fwdwithmask</folder>
+	<filename>23.jpg</filename>
+	<path>C:\Users\Sree Archu\Downloads\fwdwithmask\23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>96</ymin>
+			<xmax>151</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>social distancing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>43</ymin>
+			<xmax>181</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
