@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Social Dataset All - Copy</folder>
+	<filename>img358.webp</filename>
+	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\img358.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Social Distance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>140</ymin>
+			<xmax>719</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
