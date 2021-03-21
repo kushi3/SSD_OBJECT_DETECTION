@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Social Dataset All - Copy</folder>
+	<filename>img140.jpg</filename>
+	<path>C:\Users\sushanth\Downloads\Social_Images_Dataset\Social Dataset All - Copy\img140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Social Distance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>29</ymin>
+			<xmax>287</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
